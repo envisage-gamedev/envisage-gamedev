@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daydreams on daydream minigames</title>
+    <link>https://envisage-gamedev.github.io/daydream/</link>
+    <description>Recent content in Daydreams on daydream minigames</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://envisage-gamedev.github.io/daydream/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dodge The Sword</title>
+      <link>https://envisage-gamedev.github.io/daydream/work3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://envisage-gamedev.github.io/daydream/work3/</guid>
+      <description>&lt;p&gt;Zombies with swords vs you (with sword)!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Melon Mince</title>
+      <link>https://envisage-gamedev.github.io/daydream/work5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://envisage-gamedev.github.io/daydream/work5/</guid>
+      <description>&lt;p&gt;Someone’s  throwing  melons  in  the  air.  We  have  a  sword.  Hmm…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sheep It Up</title>
+      <link>https://envisage-gamedev.github.io/daydream/work4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://envisage-gamedev.github.io/daydream/work4/</guid>
+      <description>&lt;p&gt;Beep beep you’re a sheep we said beep-beep-you’re-a-sheep! (context: youtu.be/CZlfbep2LdU)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lights Out!</title>
+      <link>https://envisage-gamedev.github.io/daydream/work1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://envisage-gamedev.github.io/daydream/work1/</guid>
+      <description>&lt;p&gt;Get to the other end of the house. But beware, there are ghosts, and your only pal is a little  flashlight.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Warrior Fox</title>
+      <link>https://envisage-gamedev.github.io/daydream/work2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://envisage-gamedev.github.io/daydream/work2/</guid>
+      <description>&lt;p&gt;An epic quest to fulfil a little fox’s dream!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
