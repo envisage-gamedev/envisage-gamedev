@@ -18,6 +18,9 @@ body {
 header {
   z-index: 1000;
 }
+div  {
+  overflow: visible;
+}
 section {
   position: relative;
   padding-top: 90px;
@@ -836,7 +839,6 @@ a:active {
   overflow: hidden;
   text-overflow: ellipsis;
   border-radius: 2.5rem;
-  width: 260px;
 }
 .box-masonry h4 {
   font-size: 1.2em;
@@ -856,8 +858,12 @@ a:active {
 .box-masonry .box-masonry-text {
   padding: 15px 20px 15px;
 }
+
+.box-masonry-description-light p  {
+  color: white !important;
+}
 .box-masonry .box-masonry-text p {
-  color: #999999;
+  color: #000;
   font-size: 1.05em;
 }
 .box-masonry .box-masonry-hover-text-header {
@@ -933,6 +939,7 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+  border-radius: 5rem;
 }
 .box-masonry .box-masonry-image.with-hover-icon:after {
   display: block;
@@ -952,6 +959,7 @@ a:active {
   text-align: center;
   font-size: 50px;
   color: #555555;
+  border-radius: 5rem;
 }
 .box-masonry .box-masonry-image:hover {
   text-decoration: none;
